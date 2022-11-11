@@ -8,18 +8,10 @@
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-<<<<<<< HEAD
-div{
-  border:1px solid red;
-}
-=======
-
->>>>>>> b4022a8ff2968652acf8fa0e9d42934426bcd484
 .header {
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-<<<<<<< HEAD
   display: flex;
   background-color:#f2f2f2;
   position: relative;
@@ -37,7 +29,7 @@ div{
 }
 .header__title{
   display:flex;
-  align-self:center; 
+  align-self:center;
   width:730px;
   margin-left:64px;
   font-size: 102px;
@@ -68,17 +60,10 @@ div{
   text-decoration: none;
   color: #2f80ed;
 }
-  
-=======
-  /* выше установили ограничения для секции */
-}
-
->>>>>>> b4022a8ff2968652acf8fa0e9d42934426bcd484
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
   width: 568px;
-<<<<<<< HEAD
   background-color: #2f80ed;
   position: absolute;
   right: 0;
@@ -99,9 +84,9 @@ div{
 .two_columns__brief{
   width: 175px;
   line-height: 1.2;
-  font-size: 18px;   
+  font-size: 18px;
   font-weight: normal;
-  color:#2f80ed ;
+  color:#2f80ed;
   margin: 0;
 }
 .two_columns__main-text{
@@ -110,7 +95,7 @@ div{
 }
 .two_columns__paragraph{
  line-height: 34px;
- font-size: 24px;   
+ font-size: 24px;
  font-weight: normal;
  margin-top: 0;
  margin-bottom: 30px;
@@ -178,7 +163,7 @@ div{
   margin-top: 20px;
 }
 .feynman{
-  height: 890px; 
+  height: 890px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -222,7 +207,7 @@ div{
   font-weight: normal;
   font-style: normal;
   text-decoration: none;
-  color:#2f80ed
+  color:#2f80ed;
 
 }
 .kaufman{
@@ -252,8 +237,6 @@ div{
   color: white;
   justify-content: center;
   margin-top: 20px;
-=======
->>>>>>> b4022a8ff2968652acf8fa0e9d42934426bcd484
 }
 
 /* и элемента с модификатором вида ключ-значение */
@@ -262,7 +245,6 @@ div{
   color: white;
   margin-right: 0;
   margin-top: 80px;
-<<<<<<< HEAD
   z-index: 1;
 }
 .table__text_theme_dark{
@@ -324,7 +306,7 @@ div{
   display: flex;
   flex-direction: column;
   color: white;
-  text-decoration: none
+  text-decoration: none;
 }
 .column_links_text{
   margin: 0;
@@ -343,6 +325,4 @@ div{
   width: 16px;
   height: 16px;
   margin-right: 10px;
-=======
->>>>>>> b4022a8ff2968652acf8fa0e9d42934426bcd484
 }
