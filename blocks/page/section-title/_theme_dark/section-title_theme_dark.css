@@ -1,0 +1,8 @@
+.section-title_theme_dark{
+  color: white;
+  margin: 0;
+  margin-top: 90px;
+  width: 60%;
+  display:flex;
+  justify-content: center;
+}

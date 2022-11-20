@@ -1,0 +1,10 @@
+.footer__column-link{
+  display: flex;
+  flex-direction: column;
+  color: white;
+  text-decoration: none;
+  flex-wrap: nowrap;
+}
+.footer__column-link:last-child{
+  margin-bottom: 16px;
+}
